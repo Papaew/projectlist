@@ -5,6 +5,7 @@
 * [Fabric simulation](https://youtu.be/9iyS8wefAHs)
 
 ## Destructable terrain:
+* [Procedural terrain generator + custom 2D physics](https://youtu.be/_MZ7kxIThBQ)
 * [Terrain generation from noise](https://youtu.be/e91MLqAbWWg)
 * [Textured terrain + Box2D Physics](https://youtu.be/qERmACgU4T4)
 
